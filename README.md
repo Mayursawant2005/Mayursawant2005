@@ -77,7 +77,7 @@ Contribute to data-driven decision making
 
 📫 Connect With Me
 
-💼 LinkedIn: ([click here](www.linkedin.com/in/mayur-sawant-23612))
+💼 LinkedIn: ((https://www.linkedin.com/in/mayur-sawant-23612b2ba))
 
 📧 Email: (sawantmayur351@gmail.com)
 
