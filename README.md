@@ -1,7 +1,7 @@
 👋 Hi, I'm Mayur Sawant
 📊 Aspiring Data Analyst | 📈 Turning Data Into Insights
-
 🚀 About Me
+
 I'm an Aspiring Data Analyst passionate about exploring data, uncovering patterns, and creating meaningful insights.
 I have hands-on experience in:
 
