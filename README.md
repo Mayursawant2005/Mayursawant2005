@@ -1,7 +1,7 @@
 👋 Hi, I'm Mayur Sawant
 📊 Aspiring Data Analyst | 📈 Turning Data Into Insights
-🚀 About Me
 
+🚀 About Me
 I'm an Aspiring Data Analyst passionate about exploring data, uncovering patterns, and creating meaningful insights.
 I have hands-on experience in:
 
@@ -77,7 +77,7 @@ Contribute to data-driven decision making
 
 📫 Connect With Me
 
-💼 LinkedIn: ((https://www.linkedin.com/in/mayur-sawant-23612b2ba))
+💼 LinkedIn: (https://www.linkedin.com/in/mayur-sawant-23612b2ba)
 
 📧 Email: (sawantmayur351@gmail.com)
 
